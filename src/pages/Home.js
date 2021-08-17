@@ -1,11 +1,14 @@
-import Inicio from '../components/Inicio'
+import Navbar from '../components/Navbar';
 function Home() {
   
   return (
   
-  <Inicio/>
+  <Navbar/>
   
   );
 }
 
 export default Home;
+
+
+

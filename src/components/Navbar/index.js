@@ -1,7 +1,7 @@
 
 import { Content } from './styles'
 
-function Inicio() {
+function Navbar() {
     return(
         <Content>
             <nav>
@@ -18,4 +18,4 @@ function Inicio() {
         </Content>
     )
 }
-export default Inicio;
+export default Navbar;

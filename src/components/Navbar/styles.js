@@ -16,7 +16,12 @@ export const Content = styled.div`
                 font-family: monospace;
                 font-size: 16px;
                 cursor: pointer;
-                box-shadow: 10px 5px 5px #;
+                margin-left: 10px;
+                box-shadow: 2px 3px 2px #2eff7b;
+                &:hover{
+                    box-shadow: 3px 1px 1px #2eff7b;
+                    background-image: linear-gradient(#222, #000);
+                }
             }
         }
     }
