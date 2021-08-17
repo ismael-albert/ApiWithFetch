@@ -1,19 +1,21 @@
 
 import { Content } from './styles'
-
+import { Link } from 'react-router-dom'
 function Navbar() {
     return(
         <Content>
             <nav>
-                <div>
+              
+                    
                     <ul>
                         
-                        <li>Home</li>
-                        <li>Blog</li>
-                        <li>Github</li>
+                       <Link to="/"><li>HOME</li></Link>
+                       <Link to="/github"><li>GITHUB</li></Link>
+                        <Link to="/blog"><li>BLOG</li></Link>
+                       
                         
                     </ul>
-                </div>
+              
             </nav>
         </Content>
     )

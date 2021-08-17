@@ -1,3 +1,13 @@
 body{
     background-color: rgb(7, 7, 7);
 }
+::-webkit-scrollbar-track {
+    background-color: #000000;
+}
+::-webkit-scrollbar {
+    width: 15px;
+    background: #27fc39;
+}
+::-webkit-scrollbar-thumb {
+    background: #2eff7b;
+}
