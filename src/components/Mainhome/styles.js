@@ -16,12 +16,12 @@ a{
     padding: 5px;
     transition: ease 0.5s;
     &:hover{
-        color: #0e8f7a;
+        color: #41ead4;
         font-size: 18px;
     }
 }
 p{
     font-size: 16px;
-    
+
 }
 `;

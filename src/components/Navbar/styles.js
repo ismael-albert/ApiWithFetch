@@ -34,7 +34,7 @@ width: 100%;
                 box-shadow: 2px 3px 2px #2eff7b;
                 transition: ease 0.3s;
                 &:hover{
-                    box-shadow: -3px 1px 1px #2eff7b;
+                    box-shadow: -3px 1px 1px #41ead4;
                     background-image: linear-gradient(#222, #000);
                     margin-top:3px ;
                     
