@@ -3,6 +3,7 @@ import { Switch, Route } from 'react-router-dom';
 import Github from './pages/Github'
 import Home from './pages/Home'
 import Blog from './pages/Blog'
+
 export default function() {
 
     return (

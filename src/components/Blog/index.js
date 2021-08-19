@@ -7,16 +7,16 @@ function Blog(){
         .then(response => {
              return response.json()
             }).then(jsonBody => {
-                console.log(jsonBody)
+               const jsonbody = jsonBody;
             });
         
        
-         console.log(requisicao)
+       //clima: https://www.metaweather.com/api/
 
     return(
        <Content>
-<h1> {requisicao}</h1>
-      
+
+      {}
 
        </Content>
     )

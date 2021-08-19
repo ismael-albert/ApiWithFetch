@@ -10,4 +10,6 @@ body{
 }
 ::-webkit-scrollbar-thumb {
     background: #2eff7b;
+    border-radius: 10px;
+
 }

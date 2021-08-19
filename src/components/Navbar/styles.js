@@ -36,8 +36,7 @@ width: 100%;
                 &:hover{
                     box-shadow: -3px 1px 1px #41ead4;
                     background-image: linear-gradient(#222, #000);
-                    margin-top:3px ;
-                    
+                   
                 }
               
             }
