@@ -8,7 +8,7 @@ function Home() {
   <Blog/>
   </>
   );
-}
+} 
 
 export default Home;
 
