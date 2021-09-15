@@ -9,7 +9,7 @@ navigator.geolocation.watchPosition(handlepositionReceived)
 function handlepositionReceived({coords}){
   const { latitude, longitude } = coords;
   setLocation({ latitude, longitude })
-}   
+}     
 
   return (
     <div>
